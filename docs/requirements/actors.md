@@ -135,3 +135,13 @@ Se encarga de facilitar el pago de las polizas de seguros.
 
 - Entrega informacion de asegurados asociados a la institucion
 - Recibe documentacion para altas o bajas de asegurados
+
+## Matriz resumida
+
+| Actor | Tipo | Responsabilidad principal |
+|---|---|---|
+| Administrador | Humano | Administrar el sistema y gestion de servicios |
+| Agente | Humano | Promocion y trato con cliente |
+| Aseguradora | Sistema externo | Proporcionar información |
+| Coorporativo | Sistema externo | Apoyo general externo |
+| Institucion financiera | Sistema externo | Gestion de pagos diferidos |
